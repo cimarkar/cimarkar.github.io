@@ -1,0 +1,108 @@
+<!doctype html>  
+<html>
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" type="text/css" href="https://grc-ribeiro.github.io/files/proposal.css">
+      <title>Claire Markarian - Final project proposal</title>
+   </head>
+   <body>
+      <div class="container">
+         <h1>Final project proposal</h1>
+         <h2>Introduction</h2>
+         <p>Molly's Bakery and Cafe</p>
+         <p>Local and organic neighborhood breakfast and lunch spot. Breads and pastries baked fresh daily with seasonal ingredients. Molly's mission is to create a community through delicious eats. </p>
+         <h2>Target audience</h2>
+         <p>This site will be used by both regulars and new customers. Locals and tourists who are interested in eating healthy and supporting local farms and businesses. </p>
+         <p>With seasonal dishes and baked goods the menu is always changing. Customers can use the site to stay up to date. The website will be used to find the store hours, location, and special events. The website can also be used to find contact information to place an order, schedule an event, or ask questions. </p>
+         <h2>Comparative analysis</h2>
+         <h3>Jane </h3>
+         <p><a href="http://www.itsjane.com">itsjane.com</a></p>
+         <img src="jane.png" alt="Screenshot of the landing page of the Jane website." title="" />
+         <img src="jane2.png" alt="Screenshot of the drinks page of the Jane website." title="" />
+         <h3>Stable Cafe  </h3>
+         <p><a href="http://www.stablecafe.com">stablecafe.com</a></p>
+         <img src="stable.png" alt="Screenshot of the welcome page of the Stable Cafe website." title="" />
+         <img src="stable2.png" alt="Screenshot of the menu page of the Stable Cafe website." title="" />
+         <h3>Tartine Bakery  </h3>
+         <p><a href="http://www.tartinebakery.com">tartinebakery.com</a></p>
+         <img src="tartine.png" alt="Screenshot of the Our Bread page of the Tartine website." title="" />
+         <img src="tartine2.png" alt="Screenshot of the Inner Sunset page of the Tartine website." title="" />
+         <h2>Website content</h2>
+         <nav>
+            <ul>
+               <li>Home</li>
+               <li>About Us/Contact</li>
+               <li>Menu</li>
+               <li>Special Events</li>
+            </ul>
+         </nav>
+         <section>
+            <h1> Home </h1>
+            <p>    Welcome to Molly's. Our mission is to create a community through good eats. Visit us for fresh baked pastries and seasonal, organic breakfast and lunch!  </p>
+            <p>    [Fresh fruit next to breakfast pastries.] </p>
+            <h1> About Us/Contact </h1>
+            <p> Molly's Bakery is located at 123 Marsh Street in San Luis Obispo.</p>
+            <p>We are open Tuesday-Sunday from 8:00am to 2:00pm</p>
+            <p>Call us at (707)-484-3358!</p>
+            <p>Email us at molly@mollysbakery.com!</p>
+            <p>    Molly's bakery is built on family recipies. We meet with our growers and visit farmers markets to support local agriculture and find the freshest imgredients. We strive to be involved in our community and want to provide a comfortable place for neighbors to relax and socialize.  </p>
+            <p>    [Bakery building on street corner.] </p>
+         </section>
+         <section>
+            <h1> Menu </h1>
+            <h2> Luna </h2>
+            <p> an open-faced sandwich with two sunny side up eggs, on an everything bagel with avocado, fried mozzarella, & cream cheese.</p>
+            <p>$11</p>
+            <h2> Breakfast Wrap </h2>
+            <p>scrambled eggs, bacon, with Italian cheese blend wrapped in a flour tortilla, grilled & served with a creamy chipotle salsa. </p>
+            <p> $10</p>
+            <h2> Pomba</h2>
+            <p>scrambled eggs in a hole with brie and bacon</p>
+            <p> $12</p>
+            <h2> Egg Muffin </h2>
+            <p> two over hard eggs and avocado</p>
+            <p>$6.5</p>
+            <h2> Veggie Fritatta</h2>
+            <p>assortment of vegetables with cheese</p>
+            <p>$7</p>
+            <h2> Lox Bagel</h2>
+            <p>everything bagel, cream cheese, cucumber, onion, capers, dill</p>
+            <p>$10.5</p>
+            <h2>Avocado Toast</h2>
+            <p>with hard-boiled egg</p>
+            <p>$8</p>
+            <h2>Veggie Bagel</h2>
+            <p>everything bagel, cream cheese or hummus, tomato, cucumber, avocado, onion</p>
+            <p>$7.5</p>
+            <h2>Yogurt</h2>
+            <p>nonfat vanilla yogurt topped with house made granola and fresh fruit.</p>
+            <p>$7</p>
+            <h2>Turkey Sandwich</h2>
+            <p>bacon, cheddar cheese, lettuce, avocado, tomato and garlic aioli on whole wheat</p>
+            <p>$13</p>
+            <h2>Roast Beef Sandwich</h2>
+            <p>cheddar cheese, lettuce, tomato, and garlic aioli on baguette</p>
+            <p>$13</p>
+            <h2>Salami Panini</h2>
+            <p>provolone cheese, tomato, and cornichons on baguette</p>
+            <p>$13</p>
+            <h2>Chicken Panini</h2>
+            <p>provolone cheese and spicy chipolte mayo on baguette</p>
+            <h2>Bacon and Brie Panini</h2>
+            <p>on baguette</p>
+            <p>$13</p>
+            <h2>Tomato and Mozzarella Pesto Panini</h2>
+            <p>on baguette</p>
+            <p>$12</p>
+            <p>    [Plate with waffles and plate with bacon and egg breakfast.] </p>
+         </section>
+         <section>
+            <h1> Special Events </h1>
+            <h2> Events at Mollys</h2>
+            <p>Our gorgeously manicured garden patio is available for private dinners, workshops, pop ups, and parties. We’ve worked hard to create a warm inviting atmosphere, a rustic reprieve from urban life, and we feel it’s a shame not to share it with the community. Let us help you craft the perfect event here at Molly's.  </p>
+            <p>    [Restaurant patio and garden.] </p>
+         </section>
+      </div>
+   </body>
+</html>

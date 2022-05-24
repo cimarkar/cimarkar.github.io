@@ -1,0 +1,167 @@
+html, body, div, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit;}
+
+body {
+	background-color: rgb(250, 250, 250);
+	/* Not totally white. */
+	color: rgb(50, 50, 50);
+	/* Not totally black. */
+	line-height: 140%;
+	/* A little extra leading. */
+	font-family: sans-serif;
+}
+
+img {
+	width: 100%;
+	display: block;
+}
+
+div.container {
+	margin: auto;
+	max-width: 60em;
+}
+
+h1 {
+	width: 10em;
+	padding: 1em;
+}
+
+p span {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 800;
+	font-style: normal;
+	font-size: 1.2rem;
+}
+
+h2 {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 800;
+	font-style: normal;
+	font-size: 1.5em;
+	padding: .5rem 1rem;
+	margin-bottom: .5rem;
+	background: rgb(240, 240, 240);
+}
+
+h3 {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 800;
+	font-style: normal;
+	font-size: 1.2em;
+	padding: .5rem 1rem 0rem;
+}
+
+figcaption {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 800;
+	font-style: normal;
+	padding: 0.1em 0em 0em 0em;
+}
+
+nav ul {
+	padding-bottom: 1em;
+	list-style: none;
+}
+
+nav ul li {
+	display: inline;
+	list-style-type: none;
+	padding-left: 1em;
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	text-transform: lowercase;
+	font-size: 1.5em;
+
+}
+
+a {
+	text-decoration: none;
+}
+
+nav ul li a {
+	color: rgb(25, 124, 134);
+	margin-right: .5em;
+}
+
+nav ul li a:hover {
+	color: #cccccc;
+}
+
+ul {
+	list-style: none;
+}
+
+p {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 1.2em;
+	padding-left: 1rem;
+}
+
+p a {
+	color: rgb(50, 50, 50);
+	border-bottom: 1px dashed rgb(50, 50, 50);
+}
+
+figure {
+	padding: .5em 0em 0.5em 0em;
+}
+
+footer {
+	background: rgb(25, 124, 134);
+	padding: 1em;
+	margin-top: 1em;
+
+}
+
+footer a {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 1.2em;
+	color: rgb(250, 250, 250);
+}
+
+.price {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 1.2em;
+	color: rgb(25, 124, 134);
+	padding-right: 1em;
+	padding-bottom: .7em;
+}
+
+.contact {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 800;
+	font-style: normal;
+	padding: 1em 1em 1em;
+	font-size: 1.2em;
+	line-height: 1.4em;
+}
+
+@media only screen and (min-width: 60em) {
+
+	main.home {
+
+		display: grid;
+		grid-template-columns: 1fr 4fr;
+		column-gap: 1em;
+		padding-top: 1em;
+		background: rgb(240, 240, 240)
+	}
+
+	main.other {
+		display: grid;
+		grid-template-columns: 2fr 3fr;
+		column-gap: .5em;
+	}
+
+	figure {
+		padding: 0 1em 1em 0em;
+	}
+
+}
+
